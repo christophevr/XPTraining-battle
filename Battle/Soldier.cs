@@ -23,3 +23,5 @@ namespace Battle
         public string Name { get; }
     }
 }
+
+#error Fail!
